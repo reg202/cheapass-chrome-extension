@@ -3,7 +3,7 @@
 
   "content_security_policy": "script-src 'self' https://cheapass.in https://ajax.googleapis.com; object-src 'self';",
 
-	"name": "Track with Cheapass",
+	"name": "Price Tracker",
 	"description": "Get real-time-price-drop-alerts with Cheapass.in",
 	"version": "1.0",
 
